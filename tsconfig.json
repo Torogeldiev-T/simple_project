@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES3", 
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "outDir": "./builtet",
+        "removeComments": false,
+        "noEmitOnError": false,
+        "noStrictGenericChecks": true,
+        "skipLibCheck": true,
+        "ignoreDeprecations": "5.0",
+        "allowJs": true
+    },
+    "include": [
+        "main.ts"
+    ]
+}
